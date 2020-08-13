@@ -3,7 +3,7 @@
 Ao realizar a tarefa de criar um site a primeira etapa a ser feita é adicionar o texto que queremos visualizar no site e depois melhorar o aspecto tanto do texto quanto de todo o restante do ambiente que será mostrado ao usuário. Para executar essas tarefas são utilizadas as linguagens de formatação e estilo que são descritas respectivamente a seguir. 
 
 ## HTML
-
+<p align="center"><img src="img/logohtml.png"width="20%" height="40%" />></p>
 HTML é uma abreviação de Linguagem de Marcação de HiperTexto (do inglês *Hypertext Markup Language*). **O HTML não chega a ser considerado uma linguagem de programação**, mas é extremamente importante para colocar textos e organiza-los em uma página web. Para fazer essa organização do texto são utilizadas as Tags, que são etiquetas já pré definidas que determinam as partes do texto. Deste modo, é possível deixar claro qual parte do texto é o título, o(s) subtítulo(s), parágrafos simples, dentre outros. E se eu quiser deixar o meu título azul, mover ele um pouquinho para direita ou deixar o fundo amarelo? Isso já é um trabalho para o CSS! :fireworks:
 
 ## CSS 
